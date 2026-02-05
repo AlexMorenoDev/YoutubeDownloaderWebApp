@@ -1,0 +1,1 @@
+Para que funcione correctamente en el equipo/servidor donde se ejecute la aplicación web tiene que estar instalado ffmpeg para que funcione correctamente.
